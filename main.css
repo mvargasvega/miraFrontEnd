@@ -281,7 +281,7 @@ a.article:hover {
 }
 
 .redButton{
-color: none;
+    color: white;
     background-color: Red;
     background-image: none;
     border-color: #dc3545;
