@@ -264,3 +264,19 @@ a.article:hover {
         display: none;
     }
 }
+
+.jumbotron {
+    background: #358CCE;
+    color: #FFF;
+    border-radius: 0px;
+}
+
+.jumbotron-sm {
+    padding-top: 24px;
+    padding-bottom: 24px;
+ }
+
+.jumbotron small {
+      color: #FFF;
+}
+
