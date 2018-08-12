@@ -264,6 +264,7 @@ a.article:hover {
         display: none;
     }
 
+
 }
 
 .ih-item {
@@ -493,4 +494,28 @@ a.article:hover {
     -o-transform: translateX(0);
     transform: translateX(0);
 }
+
+
+.jumbotron {
+    background: #358CCE;
+    color: #FFF;
+    border-radius: 0px;
+}
+
+.jumbotron-sm {
+    padding-top: 24px;
+    padding-bottom: 24px;
+ }
+
+.jumbotron small {
+      color: #FFF;
+}
+
+.redButton{
+    color: white;
+    background-color: Red;
+    background-image: none;
+    border-color: #dc3545;
+    }
+
 
