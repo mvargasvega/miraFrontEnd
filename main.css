@@ -517,7 +517,12 @@ a.article:hover {
     background-color: Red;
     background-image: none;
     border-color: #dc3545;
-    }
+}
 
-
+.redButton1{
+    color: white;
+    background-color: green;
+    background-image: none;
+    border-color: black;
+}
 
